@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "rbush": "https://github.com/mourner/rbush.git#~1.4.0",
+    "rbush": "https://github.com/mourner/rbush.git#~3.0.1",
     "leaflet": "~0.7.3 || ~1.0.0"
   },
   "overrides": {
